@@ -1,7 +1,7 @@
 # Hi there, I'm Sai Teja Dasari 👋
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saiteja-dasari17" target="_blank">
+  <a href="https://www.linkedin.com/in/saiteja-dasari17" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:saitejadasari0.17@gmail.com">
@@ -10,6 +10,10 @@
   <a href="https://github.com/Saitejadasari17/Rl_load_balancer">
     <img src="https://img.shields.io/badge/Research_Paper-Adaptive_RL_Load_Balancer-blue?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Research Project" />
   </a>
+</p>
+
+<p align="center">
+  🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/saiteja-dasari17">https://www.linkedin.com/in/saiteja-dasari17</a>
 </p>
 
 ---
