@@ -18,7 +18,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I am a **Software Engineer & Systems Researcher** specializing in the intersection of **Distributed Systems**, **Deep Reinforcement Learning (DRL)**, and **Cloud Infrastructure**.
 
@@ -55,7 +55,7 @@ I am a **Software Engineer & Systems Researcher** specializing in the intersecti
 ---
 
 
-### 📊 GitHub Stats & Activity
+###  GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saitejadasari17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sai Teja's GitHub stats" height="165" />
