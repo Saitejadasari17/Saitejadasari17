@@ -54,16 +54,6 @@ I am a **Software Engineer & Systems Researcher** specializing in the intersecti
 
 ---
 
-### 💬 What Interviewers Love Discussing With Me
-
-If you're interviewing me, here are some fun, deep technical topics I'm excited to dive into:
-
-1. **Why standard $\epsilon$-greedy exploration fails in multi-server distributed routing** (and how sticky temporal exploration fixes state trajectory collapse).
-2. **Prioritized Experience Replay (PER)**: Overcoming sample inefficiency with SumTree data structures and importance-sampling bias correction ($\beta$-annealing).
-3. **Decoupling Action Selection vs. Evaluation**: Why Double DQN prevents Q-value overestimation bias in high-variance network latency environments.
-4. **Jain's Fairness vs. Greedy Optimization**: The trade-off between power-of-d-choices (Least Connections) and tail latency ($P99$) under skewed server capacities.
-
----
 
 ### 📊 GitHub Stats & Activity
 
